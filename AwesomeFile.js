@@ -1,3 +1,2 @@
-/* alert are bad !
-alert("Hello world")
-*/
+// I like alert !
+alert("Hello world !")
